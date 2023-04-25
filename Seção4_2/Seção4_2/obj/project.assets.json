@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\Seção4_2.csproj",
+      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\Seção4_2.csproj",
       "projectName": "Seção4_2",
-      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\Seção4_2.csproj",
+      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\Seção4_2.csproj",
       "packagesPath": "C:\\Users\\athos.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\obj\\",
+      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção4_2\\Seção4_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\athos.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
