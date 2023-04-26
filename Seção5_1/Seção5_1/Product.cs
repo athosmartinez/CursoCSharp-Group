@@ -14,6 +14,10 @@ namespace Seção5_1
         public int Quantidade;
 
 
+        public Product()
+        {
+
+        }
         public Product(string nome, double preco, int quantidade)
         {
             Nome = nome;
