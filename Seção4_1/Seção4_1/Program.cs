@@ -27,8 +27,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             double areaX = x.Area();
             double areaY = y.Area();
 
-            Console.WriteLine("Area de X: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
-            Console.WriteLine("Area de Y: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Área de X: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Área de Y: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
             if (areaX < areaY) { Console.WriteLine("A maior area é a do Y com " + areaY.ToString("F4", CultureInfo.InvariantCulture)); }
             else if (areaX > areaY) { Console.WriteLine("A maior era é do X com " + areaX.ToString("F4", CultureInfo.InvariantCulture)); }
