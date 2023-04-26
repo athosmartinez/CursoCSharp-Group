@@ -17,8 +17,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.Write("Quantidade: ");
             int QuantidadeAux = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Product p = new Product(NomeAux, PrecoAux, QuantidadeAux);
-            Product p2 = new Product();
-            Product p3 = new Product { Nome = "TV", Preco = 500.00, Quantidade = 20 };
+
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
