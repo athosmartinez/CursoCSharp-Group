@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6_1\\Seção6_1\\Seção6_1.csproj",
+      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6 -  Comportamento de mémoria, arrays e listas\\Seção6_1\\Seção6_1\\Seção6_1.csproj",
       "projectName": "Seção6_1",
-      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6_1\\Seção6_1\\Seção6_1.csproj",
+      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6 -  Comportamento de mémoria, arrays e listas\\Seção6_1\\Seção6_1\\Seção6_1.csproj",
       "packagesPath": "C:\\Users\\athos.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6_1\\Seção6_1\\obj\\",
+      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção6 -  Comportamento de mémoria, arrays e listas\\Seção6_1\\Seção6_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\athos.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
