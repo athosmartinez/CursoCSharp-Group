@@ -9,19 +9,20 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
 
+            Product p = new Product();
             Console.WriteLine("Entre com os dados do produto:");
             Console.Write("Nome: ");
-            string NomeAux = Console.ReadLine();
+            p.SetNome(Console.ReadLine());
             Console.Write("Preço: ");
-            double PrecoAux = double.Parse(Console.ReadLine());
+            p.SetPreco(double.Parse(Console.ReadLine()));
             Console.Write("Quantidade: ");
-            int QuantidadeAux = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Product p = new Product(NomeAux, PrecoAux, QuantidadeAux);
-
+            p.SetQuantidade(int.Parse(Console.ReadLine()));
 
             Console.WriteLine();
+
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
+
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int NewQntAdd = int.Parse(Console.ReadLine());
             p.AddProduct(NewQntAdd);

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Seção5_2
+namespace Seção5_3
 {
     internal class Product
     {
@@ -21,18 +21,7 @@ namespace Seção5_2
             _quantidade = quantidade;
         }
 
-        public int GetQuantidade()
-        {
-            return _quantidade;
-        }
 
-        public void SetQuantidade(int quantidade)
-        {
-            if (quantidade > 0)
-            {
-                _quantidade = quantidade;
-            }
-        }
 
 
         public double GetPreco()
@@ -40,13 +29,6 @@ namespace Seção5_2
             return _preco;
         }
 
-        public void SetPreco(double preco)
-        {
-            if (preco > 0)
-            {
-                _preco = preco;
-            }
-        }
 
         public string GetNome()
         {
