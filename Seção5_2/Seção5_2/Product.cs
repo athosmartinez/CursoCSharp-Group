@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Seção5_1
+namespace Seção5_2
 {
     internal class Product
     {
@@ -13,8 +13,8 @@ namespace Seção5_1
         public double Preco;
         public int Quantidade;
 
-        public Product() { }
 
+        public Product() { }
         public Product(string nome, double preco, int quantidade)
         {
             Nome = nome;
