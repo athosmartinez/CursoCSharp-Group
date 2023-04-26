@@ -8,14 +8,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Product p = new Product();
+
             Console.WriteLine("Entre com os dados do produto:");
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
+            string NomeAux = Console.ReadLine();
             Console.Write("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine());
+            double PrecoAux = double.Parse(Console.ReadLine());
             Console.Write("Quantidade: ");
-            p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            int QuantidadeAux = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Product p = new Product(NomeAux, PrecoAux, QuantidadeAux);
+            Product p2 = new Product();
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
@@ -30,6 +33,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             p.RemoveProduct(NewQntRemove);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+
 
         }
     }

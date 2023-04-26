@@ -13,6 +13,21 @@ namespace Seção5_1
         public double Preco;
         public int Quantidade;
 
+
+        public Product(string nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
+        public Product(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 0;
+        }
+
         public double TotalValueStock()
         {
             return Preco * Quantidade;
