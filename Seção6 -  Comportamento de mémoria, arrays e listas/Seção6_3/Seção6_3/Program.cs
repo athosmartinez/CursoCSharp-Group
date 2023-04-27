@@ -19,6 +19,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             }
 
+            double sum = 0;
+            for (int i = 0; i < n; i++)
+            {
+                sum += vect[i];
+            }
+            double avg = sum / n;
+            Console.WriteLine("A média é: " + avg.ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
