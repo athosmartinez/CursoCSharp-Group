@@ -1,0 +1,15 @@
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\bin\Debug\net6.0\Seção6_1.exe
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\bin\Debug\net6.0\Seção6_1.deps.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\bin\Debug\net6.0\Seção6_1.runtimeconfig.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\bin\Debug\net6.0\Seção6_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\bin\Debug\net6.0\Seção6_1.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.csproj.AssemblyReference.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.AssemblyInfoInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.AssemblyInfo.cs
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.csproj.CoreCompileInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\refint\Seção6_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\Seção6_1.genruntimeconfig.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção6 -  Comportamento de mémoria, arrays e listas\Seção6_1\Seção6_1\obj\Debug\net6.0\ref\Seção6_1.dll
