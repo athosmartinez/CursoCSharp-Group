@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -12,8 +13,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             for (int i = 0; i < n; i++)
             {
                 Console.Write("Digite as alturas: ");
-                double altura = double.Parse(Console.ReadLine());
-                vect[i] = altura;
+
+                vect[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
         }
