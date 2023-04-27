@@ -15,6 +15,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 Console.Write("Digite as alturas: ");
 
                 vect[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
             }
 
         }
