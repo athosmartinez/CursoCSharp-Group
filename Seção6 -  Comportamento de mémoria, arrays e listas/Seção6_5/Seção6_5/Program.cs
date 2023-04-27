@@ -20,7 +20,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             //usando out - valor não precisa ser iniciado
             int b = 10;
             int triple;
-            Calculator.TripleO(a, out triple);
+            Calculator.TripleO(b, out triple);
             Console.WriteLine(triple);
         }
     }
