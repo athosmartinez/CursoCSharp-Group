@@ -13,11 +13,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(s1);
             Console.WriteLine(s2);
             Console.WriteLine(s3);
-            //usando ref
+            //usando ref - valor precisa ser iniciado
             int a = 10;
             Calculator.TripleR(ref a);
             Console.WriteLine(a);
-            //usando out
+            //usando out - valor não precisa ser iniciado
             int b = 10;
             int triple;
             Calculator.TripleO(a, out triple);
