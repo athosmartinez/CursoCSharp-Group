@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.ExceptionServices;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -11,6 +12,21 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Quantidade de linhas: " + Matriz.Rank);
             Console.WriteLine("Primeira dimensao: " + Matriz.GetLength(0));
             Console.WriteLine("Sgunda dimensao: " + Matriz.GetLength(1));
+
+
+            int n = int.Parse(Console.ReadLine());
+            double[,] Mat = new double[n, n];
+            for (int i = 0; i < n; i++)
+            {
+                string[] values = Console.ReadLine().Split(' ');
+
+                for (int j = 0; j < n; j++)
+                {
+                    Mat[i, j] = int.Parse(values[j]);
+                }
+
+            }
+
 
 
         }
