@@ -27,8 +27,25 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             }
 
+            Console.WriteLine("Main diagononal: ");
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(Mat[i, i] + " ");
 
-
+            }
+            Console.WriteLine();
+            int count = 0;
+            for (int i = 0; i < n; ++i)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if (Mat[i, j] < 0)
+                    {
+                        count++;
+                    }
+                }
+            }
+            Console.WriteLine("Negative numbers:" + count);
         }
     }
 }
