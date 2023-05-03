@@ -11,18 +11,24 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine(s);
             }
+
             Console.WriteLine("-------------------------------------");
+
             List<string> list = new List<string>();
             list.Add("Pedro");
             list.Add("Athos");
             list.Add("Amaral");
             list.Insert(2, "Marcos");
             list.Add("Mario");
+            list.Add("Afonso");
+            list.Add("Gustavo");
+            list.Add("Jairo");
 
             foreach (string obj in list)
             {
                 Console.WriteLine(obj);
             }
+            Console.WriteLine("-------------------------------------");
             Console.WriteLine("List count: " + list.Count);
             string s1 = list.Find(x => x[0] == 'A');
             Console.WriteLine("First 'A': " + s1);
@@ -32,6 +38,21 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("First Position 'A': " + pos1);
             int pos2 = list.FindLastIndex(x => x[0] == 'A');
             Console.WriteLine("Last Position 'A': " + pos2);
+            Console.WriteLine("-------------------------------------");
+
+            list.RemoveRange(2, 2);
+            foreach(string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine("-------------------------------------");
+            list.RemoveAll(x => x[0] == 'A');
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine("-------------------------------------");
+
             List<string> filterList = list.FindAll(x => x.Length == 5);
             foreach (string writeFilterList in filterList)
             {
