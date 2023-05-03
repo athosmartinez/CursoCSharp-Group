@@ -32,6 +32,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("First Position 'A': " + pos1);
             int pos2 = list.FindLastIndex(x => x[0] == 'A');
             Console.WriteLine("Last Position 'A': " + pos2);
+            List<string> filterList = list.FindAll(x => x.Length == 5);
+            foreach (string writeFilterList in filterList)
+            {
+                Console.WriteLine("Os que tem 5 caracteres: " + writeFilterList);
+            }
+            Console.WriteLine("-------------------------------------");
+            filterList.Remove("Mario");
+            foreach (string RemoveItem in filterList)
+            {
+                Console.WriteLine(RemoveItem);
+            }
 
 
 
