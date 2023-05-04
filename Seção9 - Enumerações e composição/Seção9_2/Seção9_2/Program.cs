@@ -9,7 +9,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter departament's name: ");
+            Console.Write("Enter departament's name!!!: ");
             string DeptName = Console.ReadLine();
             Console.Write("Enter Worker Name");
             string name = Console.ReadLine();
