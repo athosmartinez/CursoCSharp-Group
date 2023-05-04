@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção9 - Enumerações e composição\\Seção10_1\\Seção10_1\\Seção10_1.csproj",
+      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção10 - Herança e polimorfismo\\Seção10_1\\Seção10_1\\Seção10_1.csproj",
       "projectName": "Seção10_1",
-      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção9 - Enumerações e composição\\Seção10_1\\Seção10_1\\Seção10_1.csproj",
+      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção10 - Herança e polimorfismo\\Seção10_1\\Seção10_1\\Seção10_1.csproj",
       "packagesPath": "C:\\Users\\athos.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\CursoCSharp-Group\\Seção9 - Enumerações e composição\\Seção10_1\\Seção10_1\\obj\\",
+      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção10 - Herança e polimorfismo\\Seção10_1\\Seção10_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\athos.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
