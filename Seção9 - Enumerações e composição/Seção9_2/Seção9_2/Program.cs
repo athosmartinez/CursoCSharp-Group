@@ -21,6 +21,18 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Departament dept = new Departament(DeptName);
             Worker worker = new Worker(name, level, baseSalary, dept);
+
+            Console.WriteLine("How many contratcs to this worker? ");
+
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i <= n; i++)
+            {
+                Console.WriteLine($"Enter #{i} contract data: ");
+                Console.Write("Date (DD/MM/YYYY): ");
+                DateTime date = DateTime.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Value per Hour: ");
+                double ValuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            }
         }
     }
 }
