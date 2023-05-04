@@ -45,7 +45,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Departament.Name);
             Console.WriteLine("Income for " + MonthAndYear + ": " + worker.Income(year, month));
-            Console.WriteLine("Departament: " + worker.Departament);
         }
     }
 }
