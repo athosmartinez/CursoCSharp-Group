@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Seção9_2.Entities.Enums
 {
-    internal enum WorkerLevel
+    internal enum WorkerLevel : int
     {
-
+        Junior = 0, MidLevel = 1, Senior = 2
     }
 }
