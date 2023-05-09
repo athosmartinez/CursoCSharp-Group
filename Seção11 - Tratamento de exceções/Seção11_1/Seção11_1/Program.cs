@@ -17,9 +17,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 Console.WriteLine(result);
             }
-            catch (Exception e)
+            catch (DivideByZeroException)
             {
-                Console.WriteLine("ERROR!" + e.Message);
+                Console.WriteLine("Division by zero is not allowed");
+            }
+            catch(FormatException e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
     }
