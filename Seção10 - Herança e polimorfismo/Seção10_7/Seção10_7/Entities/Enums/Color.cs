@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Seção10_7.Entities
+namespace Seção10_7.Entities.Enums
 {
-    internal class Color
+    internal enum Color
     {
+        Black,
+        Blue, Red
+
     }
 }
