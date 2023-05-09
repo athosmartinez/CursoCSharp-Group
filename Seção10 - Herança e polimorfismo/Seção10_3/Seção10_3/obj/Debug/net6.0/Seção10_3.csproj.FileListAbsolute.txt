@@ -1,0 +1,15 @@
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.csproj.AssemblyReference.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.AssemblyInfoInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.AssemblyInfo.cs
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.csproj.CoreCompileInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\bin\Debug\net6.0\Seção10_3.exe
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\bin\Debug\net6.0\Seção10_3.deps.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\bin\Debug\net6.0\Seção10_3.runtimeconfig.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\bin\Debug\net6.0\Seção10_3.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\bin\Debug\net6.0\Seção10_3.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\refint\Seção10_3.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\Seção10_3.genruntimeconfig.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção10 - Herança e polimorfismo\Seção10_3\Seção10_3\obj\Debug\net6.0\ref\Seção10_3.dll
