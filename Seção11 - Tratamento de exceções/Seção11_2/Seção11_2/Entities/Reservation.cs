@@ -28,6 +28,12 @@ namespace Seção11_2.Entities
             return (int)duration.TotalDays;
         }
 
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        {
+            Checkin = checkIn;
+            Checkout = checkOut;
+        }
+
         public override string ToString()
         {
             return "Room: " + RoomNumber + ", Checkin: " + Checkin.ToString("dd/MM/yyyy") + " Checkout: " +  Checkout.ToString("dd/MM/yyyy") + ", " + Duration() + " nights." ;

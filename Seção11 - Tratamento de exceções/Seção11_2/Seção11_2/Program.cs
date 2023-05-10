@@ -32,7 +32,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 checkIn = DateTime.Parse(Console.ReadLine());
                 Console.Write("Checkout Date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
-
+                //Atualizar reserva
                 DateTime now = DateTime.Now;
                 if (checkIn < now || checkOut < now)
                 {
@@ -40,7 +40,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
                 else if (checkOut <= checkIn)
                 {
-
+                    Console.WriteLine("Error in reservation: Checkout date must be after checkin");
+                }
+                else
+                {
+                    reservation.UpdateDates(checkIn, checkOut);
+                    Console.WriteLine("Reservetion: " + reservation);
                 }
 
             }
