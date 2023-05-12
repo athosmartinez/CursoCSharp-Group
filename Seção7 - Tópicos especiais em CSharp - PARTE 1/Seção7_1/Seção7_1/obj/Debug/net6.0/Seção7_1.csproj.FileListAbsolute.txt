@@ -1,0 +1,15 @@
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\bin\Debug\net6.0\Seção7_1.exe
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\bin\Debug\net6.0\Seção7_1.deps.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\bin\Debug\net6.0\Seção7_1.runtimeconfig.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\bin\Debug\net6.0\Seção7_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\bin\Debug\net6.0\Seção7_1.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.csproj.AssemblyReference.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.AssemblyInfoInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.AssemblyInfo.cs
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.csproj.CoreCompileInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\refint\Seção7_1.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\Seção7_1.genruntimeconfig.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\CursoCSharp-Group\Seção7 - Tópicos especiais em CSharp - PARTE 1\Seção7_1\Seção7_1\obj\Debug\net6.0\ref\Seção7_1.dll
