@@ -1,0 +1,15 @@
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\bin\Debug\net6.0\Seção13_6.exe
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\bin\Debug\net6.0\Seção13_6.deps.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\bin\Debug\net6.0\Seção13_6.runtimeconfig.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\bin\Debug\net6.0\Seção13_6.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\bin\Debug\net6.0\Seção13_6.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.csproj.AssemblyReference.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.AssemblyInfoInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.AssemblyInfo.cs
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.csproj.CoreCompileInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\refint\Seção13_6.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\Seção13_6.genruntimeconfig.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção13 - Trabalhando com arquivos\Seção13_6\Seção13_6\obj\Debug\net6.0\ref\Seção13_6.dll
