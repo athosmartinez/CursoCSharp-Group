@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_2 - Com interface\\Seção14_2\\Seção14_2.csproj": {}
+    "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_3\\Seção14_3\\Seção14_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_2 - Com interface\\Seção14_2\\Seção14_2.csproj": {
+    "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_3\\Seção14_3\\Seção14_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_2 - Com interface\\Seção14_2\\Seção14_2.csproj",
-        "projectName": "Seção14_2",
-        "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_2 - Com interface\\Seção14_2\\Seção14_2.csproj",
+        "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_3\\Seção14_3\\Seção14_3.csproj",
+        "projectName": "Seção14_3",
+        "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_3\\Seção14_3\\Seção14_3.csproj",
         "packagesPath": "C:\\Users\\athos.andrade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_2 - Com interface\\Seção14_2\\obj\\",
+        "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção14 - Interfaces\\Seção14_3\\Seção14_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\athos.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
