@@ -1,0 +1,15 @@
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.csproj.AssemblyReference.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.AssemblyInfoInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.AssemblyInfo.cs
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.csproj.CoreCompileInputs.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\bin\Debug\net6.0\Seção14_4.exe
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\bin\Debug\net6.0\Seção14_4.deps.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\bin\Debug\net6.0\Seção14_4.runtimeconfig.json
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\bin\Debug\net6.0\Seção14_4.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\bin\Debug\net6.0\Seção14_4.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\refint\Seção14_4.dll
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.pdb
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\Seção14_4.genruntimeconfig.cache
+C:\Users\athos.andrade\source\repos\CursoCSharp-Group\Seção14 - Interfaces\Seção14_4\Seção14_4\obj\Debug\net6.0\ref\Seção14_4.dll
