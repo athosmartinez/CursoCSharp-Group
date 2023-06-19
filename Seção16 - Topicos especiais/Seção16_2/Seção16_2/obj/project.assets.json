@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\athos.andrade\\.nuget\\packages\\": {}
+    "C:\\Users\\athos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\Seção16_2.csproj",
+      "projectUniqueName": "C:\\Users\\athos\\OneDrive\\Documents\\GitHub\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\Seção16_2.csproj",
       "projectName": "Seção16_2",
-      "projectPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\Seção16_2.csproj",
-      "packagesPath": "C:\\Users\\athos.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athos.andrade\\source\\repos\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\obj\\",
+      "projectPath": "C:\\Users\\athos\\OneDrive\\Documents\\GitHub\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\Seção16_2.csproj",
+      "packagesPath": "C:\\Users\\athos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\athos\\OneDrive\\Documents\\GitHub\\CursoCSharp-Group\\Seção16 - Topicos especiais\\Seção16_2\\Seção16_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\athos.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\athos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
